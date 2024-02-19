@@ -1,0 +1,1 @@
+[<Key.shift: <160>>, 'I', <Key.space: ' '>, 'a', 'm', <Key.space: ' '>, 'b', 'u', 'i', 'l', 'd', 'i', 'n', 'g', <Key.space: ' '>, 'a', <Key.space: ' '>, 'k', 'e', 'y', <Key.space: ' '>, 'l', 'o', 'g', 'g', 'e', 'r', <Key.esc: <27>>]
